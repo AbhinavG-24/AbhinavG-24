@@ -79,10 +79,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavG-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinavg-24&show_icons=true&theme=tokyonight" />
 </div>
-
----
+--
 
 <div align="center">
   <b>Thanks for visiting! 😊 Feel free to explore my repos and connect with me.</b>

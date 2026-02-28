@@ -76,12 +76,12 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinavg-24&show_icons=true&theme=tokyonight" />
-</div>
---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhinavg-24&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
 <div align="center">
   <b>Thanks for visiting! 😊 Feel free to explore my repos and connect with me.</b>

@@ -67,7 +67,7 @@
 |---|---|---|
 | 🌫️ **[AirOptima – Smart Sprinkling System](https://github.com/AbhinavG-24/AirOptima-V2)** | Python, XGBoost, Random Forest, WAQI API, OpenWeatherMap, TomTom | 🏆 1st among JIIT teams (Climate Data Hackathon 2026); RF classifier for pollution source detection; smart truck dispatch; real-time dashboard |
 | ✋ **[Real-Time Sign Language Detector](https://github.com/AbhinavG-24/Real-Time-Sign-Language-Detector)** | Python, TensorFlow/Keras, MediaPipe, OpenCV | Detects 18 gestures (digits 1–7, A–L) live via webcam; self-collected 200 samples/gesture; custom Dense–Dropout–Softmax network |
-| 🌾 **Crop Production Prediction Pipeline** | Python, XGBoost, Random Forest, Scikit-learn | 19,689 records across 55 crops & 30 states; best model R² 0.96, RMSE 1405; validated with 5-fold CV |
+| 🌾 **[Krishi Lens – Crop Recommendation System](https://github.com/AbhinavG-24/Krishi-Lens)** ([live demo](https://abhinavg-24.github.io/Krishi-Lens/dashboard/)) | Python, Scikit-learn, XGBoost, Random Forest, HTML/CSS/JS | 22-crop recommendation from soil & climate data, ~99.5% accuracy; interactive backend-free dashboard with live in-browser predictions |
 
 ---
 
